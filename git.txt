@@ -1,0 +1,9 @@
+git --version 버전확인
+
+git config --global user.name khs9628
+git config --global user.email rlagus0908@naver.com
+cd C:\Education
+위치 이동
+
+git clone https://github.com/khs9628/Spring-web.git
+저장소에 있는 파일 해당 위치에 복사
